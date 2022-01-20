@@ -13,3 +13,8 @@ print(full_name.lower())
 full_name="Hrishikesh Dilip Ghosalkar"
 
 print(full_name.replace("Hrishikesh", "Hrishi"))
+
+#TWO functions
+full_name="Hrishikesh Dilip Ghosalkar"
+x=full_name.replace("Hrishikesh", "Hrishi")
+print( x[5:])
