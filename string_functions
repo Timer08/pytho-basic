@@ -18,3 +18,10 @@ print(full_name.replace("Hrishikesh", "Hrishi"))
 full_name="Hrishikesh Dilip Ghosalkar"
 x=full_name.replace("Hrishikesh", "Hrishi")
 print( x[5:])
+
+Concat
+
+first_name="Hrishi"
+last_name="Ghosalkar"
+
+print(first_name, " " + last_name)
