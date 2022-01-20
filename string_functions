@@ -1,0 +1,15 @@
+#Upper
+
+full_name="Hrishikesh Dilip Ghosalkar"
+
+print(full_name.upper())
+
+#LOWER
+full_name="Hrishikesh Dilip Ghosalkar"
+
+print(full_name.lower())
+
+#replace
+full_name="Hrishikesh Dilip Ghosalkar"
+
+print(full_name.replace("Hrishikesh", "Hrishi"))
