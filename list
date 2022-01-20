@@ -1,6 +1,0 @@
-full_name=["Hrishikesh", "Dilip", "Ghosalkar"]
-
-full_name.insert(2, "Tukaram")
-print(type(full_name))
-print(full_name)
-print(full_name[0])

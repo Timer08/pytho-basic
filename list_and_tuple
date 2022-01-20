@@ -1,0 +1,21 @@
+full_name=["Hrishikesh", "Dilip", "Ghosalkar"]
+
+
+full_name.insert(2, "Tukaram")
+full_name[0]="Hrishi"
+
+sister_name=["Aparna"]
+sister_name[1:3]=["Dilip", "Tukaram", "Ghosalkar"]
+
+print(full_name)
+print(sister_name)
+
+
+--------------------------------------------------------------------------
+
+full_name=("Hrishi", "Dilip", "Ghosalkar", 30)
+
+print(full_name)
+print(full_name[1])
+print(full_name[0:2])
+print(type(full_name))
